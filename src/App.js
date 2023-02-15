@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import { useTranslation } from "react-i18next";
+import Footer from "./components/Footer";
 
 const lngs = {
   en: {nativeName: "English"},
@@ -32,6 +33,7 @@ function App() {
           {t("description.part2")}
         </a>
       </header>
+      <Footer t={t} />
     </div>
   );
 }

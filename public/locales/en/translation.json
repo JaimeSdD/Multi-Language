@@ -2,5 +2,8 @@
 "description": {
     "part1": "Edit src/App.js and save to reload.",
     "part2": "Learn React"
-  }
+  },
+"footer": {
+  "date": "Today is {{date, DATE_HUGE}}"
+}
 }
