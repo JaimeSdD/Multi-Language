@@ -1,9 +1,12 @@
 {
-    "description": {
-        "part1": "Edite src/App.js y guarde para recargar.",
-        "part2": "Aprende React"
-      },
-      "footer": {
-        "date": "Hoy es {{date, DATE_HUGE}}"
-      }
+  "description": {
+    "part1": "Edite src/App.js y guarde para recargar.",
+    "part2": "Aprende React"
+  },
+  "footer": {
+    "date": "Hoy es {{date, DATE_HUGE}}",
+    "date_morning": "¡Buenos días! Hoy es {{date, DATE_HUGE}}",
+    "date_afternoon": "¡Buenas tardes! Hoy es {{date, DATE_HUGE}}",
+    "date_evening": "¡Buenas noches! Hoy es {{date, DATE_HUGE}}"
+  }
 }

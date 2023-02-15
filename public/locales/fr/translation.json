@@ -1,9 +1,12 @@
 {
-    "description": {
-        "part1": "Modifiez src/App.js et enregistrez pour recharger.",
-        "part2": "Apprendre React"
-      },
-      "footer": {
-        "date": "Aujourd'hui c'est {{date, DATE_HUGE}}"
-      }
+  "description": {
+    "part1": "Modifiez src/App.js et enregistrez pour recharger.",
+    "part2": "Apprendre React"
+  },
+  "footer": {
+    "date": "Aujourd'hui c'est {{date, DATE_HUGE}}",
+    "date_morning": "Bonjour! Aujourd'hui c'est {{date, DATE_HUGE}}",
+    "date_afternoon": "Bonsoir! Aujourd'hui c'est {{date, DATE_HUGE}}",
+    "date_evening": "Bonne nuit! Aujourd'hui c'est {{date, DATE_HUGE}}"
+  }
 }
